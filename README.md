@@ -14,5 +14,5 @@
 
 ---
 
-<p align="center">CONTACTS:</p>
+### Connect with me on: 
 
