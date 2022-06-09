@@ -9,8 +9,6 @@
 ---
 
 ### About me:
-- I'm an aspiring web developer (backend)
-- I'm currently learning Node.js, Express.js and MongoDB
 
 ---
 
