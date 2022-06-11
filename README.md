@@ -7,10 +7,3 @@
 </div>
 
 ---
-
-### About me:
-
----
-
-### Connect with me on: 
-
